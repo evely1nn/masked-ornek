@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\bin\Debug\masked text.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\bin\Debug\masked text.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\bin\Debug\masked text.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked text.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked text.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked_text.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked_text.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked text.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked text.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked text.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\masked text\masked text\obj\Debug\masked text.pdb
